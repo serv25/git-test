@@ -3,5 +3,6 @@ public class Werty {
 
 	public int g;
 	public int h;
-	dfghj
+	public int j;
+	public int r;
 }
